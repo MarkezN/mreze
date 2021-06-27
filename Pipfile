@@ -8,8 +8,12 @@ pylint = "*"
 ipython = "*"
 
 [packages]
+<<<<<<< HEAD
 django = "~=2.2.0"
 ipython = "*"
+=======
+django = "~=2.2.24"
+>>>>>>> master
 
 [requires]
 python_version = "3"
